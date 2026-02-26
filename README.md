@@ -1,4 +1,3 @@
-# PPAI---Full-Stack-Project
 # PPAI Member Directory
 
 A simple full-stack app where you can search and browse PPAI members. The backend is a Spring Boot API that holds member data in memory, and the frontend is an Angular app that talks to it.
